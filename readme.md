@@ -13,7 +13,6 @@ Tasks:
 - Install dependencies with `pip install -r requirements.txt`
 - Run `pip install -e .` to install the `stochastic_offline_envs` package.
 - Run the script `download_datasets.py` to download the datasets used in the paper.
-- This repo has been tested with Gym version `0.19.0`.
 
 ## Usage Instructions
 Please see `notebooks/env_example.ipynb` for details about how to load the environments and offline datasets.
