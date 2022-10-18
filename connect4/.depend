@@ -1,0 +1,2 @@
+Solver.o: Solver.cpp Solver.hpp Position.hpp TranspositionTable.hpp \
+  OpeningBook.hpp MoveSorter.hpp
