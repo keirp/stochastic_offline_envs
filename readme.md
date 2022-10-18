@@ -10,6 +10,7 @@ Tasks:
 ## Installation Instructions
 
 - Install the gym-2048 package that is included.
+- Install dependencies with `pip install -r requirements.txt`
 - Run `pip install -e .` to install the `stochastic_offline_envs` package.
 - Run the script `download_datasets.py` to download the datasets used in the paper.
 - This repo has been tested with Gym version `0.19.0`.
